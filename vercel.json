@@ -4,11 +4,5 @@
             "src":"index.js",
             "use":"@now/node"
         }
-    ],
-    "routed":[
-{
-    "src":"/.*",
-    "dest":"index.js"
-}
     ]
 }
